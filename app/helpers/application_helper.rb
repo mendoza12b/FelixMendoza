@@ -22,4 +22,4 @@ module ApplicationHelper
     def copyright_generator
     	MendozaViewTool::Renderer.copyright 'Felix Mendoza', 'All rights reserved'
     end
-end 
+end
