@@ -55,5 +55,9 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'bootstrap', '~> 4.1.3'
 gem 'jquery-rails'
 gem 'mendoza_view_tool', '~> 0.1.0'
+gem 'petergate', '~> 2.0', '>= 2.0.1'
 gem 'rack', '~> 2.0', '>= 2.0.6'
 gem 'loofah', '~> 2.2', '>= 2.2.2'
+
+
+
