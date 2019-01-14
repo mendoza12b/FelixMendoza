@@ -3,6 +3,7 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
 .blog-header {
+  margin-top: 40px;
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
 }
@@ -131,4 +132,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
+}
+
+.blog-masthead {  
+background-color: #333;
+overflow: hidden;
+position:fixed;
+top: 0;
+width: 100%;
+z-index: 1;
 }
