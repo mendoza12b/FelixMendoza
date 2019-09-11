@@ -60,5 +60,7 @@ gem 'rack', '~> 2.0', '>= 2.0.6'
 gem 'loofah', '~> 2.2', '>= 2.2.2'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4' 
 gem 'kaminari', '1.1.1'
-
-
+gem 'carrierwave', '~> 2.0', '>= 2.0.1'
+gem 'mini_magick', '~> 4.9', '>= 4.9.5'
+gem 'carrierwave-aws', '~> 1.4'
+gem 'dotenv-rails', '~> 2.7', '>= 2.7.5'
